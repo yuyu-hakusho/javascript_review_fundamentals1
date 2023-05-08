@@ -22,10 +22,10 @@ console.log(word2);
 let num = 1;
 console.log(num);
 
-num = num + 15;
+num += 15;
 console.log(num);
 
-num = num - 8;
+num -= 8;
 console.log(num);
 
 let average = (26+44+72+86+112)/5
